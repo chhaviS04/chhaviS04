@@ -43,7 +43,13 @@ I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic an
 - IBM - Web Development Fundamentals, JavaScript Badge, AI Introduction  
 - Great Learning - HTML & CSS Fundamentals  
 - MongoDB University - Intro to MongoDB  
-- LinkedIn - Introduction to Artificial Intelligence  
+- LinkedIn - Introduction to Artificial Intelligence
+- EC-Council - Python
+- NPTEL - Advanced Python
+- IBM-Data Analysis Using Python
+- The Linux Foundation - Rust Programming
+- Google Cloud - Introduction To Large Language Model
+- NPTEL - Data Analyst  
 
 ---
 
