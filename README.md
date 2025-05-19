@@ -79,7 +79,7 @@ I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic an
 ---
 
 ## 🎉 Fun Fact
-🌟 I lead technical university events, participate in hackathons, and constantly challenge myself to build something new!
+🌟 I lead technical university events, participated in hackathons, and constantly challenge myself to build something new!
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
