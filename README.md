@@ -48,6 +48,7 @@ I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic an
 - NPTEL - Advanced Python
 - IBM-Data Analysis Using Python
 - The Linux Foundation - Rust Programming
+- MongoDB University - RAG with MongoDB 
 - Google Cloud - Introduction To Large Language Model
 - NPTEL - Data Analyst  
 
