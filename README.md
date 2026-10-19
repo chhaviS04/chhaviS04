@@ -13,12 +13,12 @@
 ## 🧑‍💻 About Me
 I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic and scalable web applications. Currently pursuing **B.Tech CSE at ICFAI University, Jaipur**, I enjoy solving problems and learning new technologies every day!
 
-- 🌱 I’m currently learning **AI/ML** and advanced **backend integrations**
-- 👩‍💼 Former Intern at **Recursive Zero**
-- ⚒️ Tech Stack: `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Firebase`, `Tailwind CSS`, and more
-- 🛠️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
-- 💼 Open to web dev & software dev internships
-- ✉️ Email: **sharmachhavi519@gmail.com**
+- I’m currently learning **AI/ML** and advanced **backend integrations**
+- Former Intern at **Recursive Zero**
+- Tech Stack: `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Firebase`, `Tailwind CSS`, and more
+- Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+- Open to web dev & software dev internships
+- Email: **sharmachhavi519@gmail.com**
 
 ---
 
@@ -32,10 +32,9 @@ I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic an
 ## 🚀 Projects Showcase
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🛍️ E-Commerce Website** | Dynamic catalog, filters, secure Stripe payment | React.js, Node.js, MongoDB |
-| **📚 E-Learning Platform** | Firebase authentication & real-time DB | React.js, Tailwind, Firebase |
-| **🧾 Shop Management System** | Inventory & sales for SMBs | Python, MySQL |
-| **🌐 Responsive Portfolio** | Showcases skills & projects interactively | HTML, CSS, JS |
+| **E-Commerce Website** | Dynamic catalog, filters, secure Stripe payment | React.js, Node.js, MongoDB |
+| **E-Learning Platform** | Firebase authentication & real-time DB | React.js, Tailwind, Firebase |
+| **Responsive Portfolio** | Showcases skills & projects interactively | HTML, CSS, JS |
 
 ---
 
