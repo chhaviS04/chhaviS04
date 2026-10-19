@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate **Full Stack Web Developer** 🚀 who loves building dynamic and scalable web applications. Currently pursuing **B.Tech CSE at ICFAI University, Jaipur**, I enjoy solving problems and learning new technologies every day!
+I'm a passionate **Full Stack Web Developer**  who loves building dynamic and scalable web applications. Currently pursuing **B.Tech CSE at ICFAI University, Jaipur**, I enjoy solving problems and learning new technologies every day!
 
 - I’m currently learning **AI/ML** and advanced **backend integrations**
 - Former Intern at **Recursive Zero**
