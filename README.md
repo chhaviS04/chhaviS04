@@ -61,12 +61,12 @@ I'm a passionate **Full Stack Web Developer**  who loves building dynamic and sc
 </div>
 
 ---
-
+<!--
 ## 📈 GitHub Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chhaviS04&theme=react-dark" />
 </div>
-
+-->
 ---
 
 ## 🎯 Let's Connect!
